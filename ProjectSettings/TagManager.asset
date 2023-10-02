@@ -9,6 +9,7 @@ TagManager:
   - Healing
   - Collectable
   - Ground
+  - Oxygentank
   layers:
   - Default
   - TransparentFX
