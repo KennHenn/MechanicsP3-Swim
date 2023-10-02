@@ -123,11 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1 &245955582
-=======
---- !u!1 &504625313
->>>>>>> d77716d9474f1b1eaa40e5730be850bab4ff8ece
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2653,7 +2649,6 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: c87b8e3f1c525f043b27a02c0dcc32dc, type: 2}
---- !u!95 &969582327
 Animator:
   serializedVersion: 5
 --- !u!114 &969582327
