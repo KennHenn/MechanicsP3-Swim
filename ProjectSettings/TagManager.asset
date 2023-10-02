@@ -8,6 +8,7 @@ TagManager:
   - Obstacle
   - Healing
   - Collectable
+  - Oxygentank
   layers:
   - Default
   - TransparentFX
